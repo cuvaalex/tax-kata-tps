@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/jsLinters/
+.idea/kata-tax-tps.iml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/typescript-compiler.xml
+.idea/workspace.xml
